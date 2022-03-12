@@ -1,0 +1,4 @@
+Juan Manuel Saldarriaga Velasquez
+20 años
+Mis aspiraciones con el curso es profundizar mis conocimientos en python y conocer mucho mas de este lenguaje tan conocido como lo es Java. Tambien ver como estos lenguajes
+son utilizados para la POO
