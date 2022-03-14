@@ -1,0 +1,1 @@
+Supongo que al ser una carpeta vacia, no habia forma de subirla; al añadirle un archivo lo identificaba y permitia subir la carpeta como tal
